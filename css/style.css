@@ -18,7 +18,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -39,6 +39,8 @@ ul {
 .link-nav:focus{
     color: #404bbf;}
 
+.address{font-style: normal;}
+
 .address-link{
     font-weight: 400;
     font-size: 16px;
@@ -57,7 +59,7 @@ ul {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -94,10 +96,11 @@ ul {
 .our-team-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;
+    text-transform: capitalize;}
 
 .our-team-li{background-color:#FFF;}
 .our-team-Name{
@@ -119,7 +122,7 @@ ul {
 .our-portfolio{
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -143,8 +146,6 @@ ul {
 }
 
 .footer{
-    width: 1440px;
-    height: 312px;
     background: #2e2f42;
 }
 
@@ -152,7 +153,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
